@@ -66,7 +66,7 @@ Run creator-studio: NEWS on Wednesday. Use these settings so it looks different 
 
 ---
 
-## Reel C, filled in for the week of 9 Nov 2026: "Rupee 6 mahine ke high pe. Aapko faayda ya nuksaan?"
+## Reel C, filled in for the week of 9 Nov 2026 (superseded by the full Production Pack: `creator/productions/2026-11-12-rupee-6-month-high.md`)
 Picked by creator-studio: NEWS on 9 Nov 2026. Money angle: very strong. Relevant to both NRIs and Indian viewers. Safe and non-political.
 
 **Fact pack** (check again on the morning you record, because these numbers move every day)
