@@ -1,5 +1,7 @@
 # Instagram Edits Playbook (Android, beginner → confident)
 
+> The full version is in the skill: `.claude/skills/creator-studio/references/editing-playbook.md` and `effects-library.md`.
+
 > Edits is Instagram's free editing app, so it's all you need for now. Feature names and menus change between
 > versions. If a button isn't where this guide says, look for the closest equivalent or search the app's help.
 

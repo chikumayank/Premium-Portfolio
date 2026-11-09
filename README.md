@@ -1,63 +1,49 @@
-# Creator Studio: Claude Skills for Reels, Shorts & Vlogs
+# Creator Studio: One Claude Skill for Reels, Shorts & Vlogs
 
-A one-stop skill system for Instagram Reels, YouTube Shorts, YouTube vlogs and long-form video.
-It is built around one rule: **no two posts in a row should look, sound or open the same way.**
+**`creator-studio`** is one complete skill covering the whole creator workflow: strategy → ideas → trends → hooks → scripts →
+filming → editing → **100+ effects** → sound → fonts and colour → publishing → repurposing → analytics → growth,
+plus news and finance compliance for a CA creator. Its core job is to make sure **no two videos look, sound or open the same way.**
 
-## How it fights monotony
-
-Most creators get repetitive because they decide everything from memory. Here, every
-decision (hook type, format, font, colour, transition, music mood, camera angle,
-pacing) is picked from a **library** and checked against the **content log**
-(`creator/content-log.md`). Skills refuse to repeat a choice that was used in the
-last few posts unless you ask for it.
-
+## What's inside
 ```
-creator-dna  ->  idea-engine  ->  hook-lab  ->  script-writer  ->  shot-planner
-                                                                       |
-performance-review  <-  freshness-audit  <-  repurpose  <-  type-and-color  <-  edit-recipe
-        |                                                                ^
-        +-------------------- creator/content-log.md --------------------+
+.claude/skills/creator-studio/
+├── SKILL.md                         ← main file: 15 modes + the full PRODUCE pipeline + quality bar
+├── references/
+│   ├── strategy-and-niche.md        ← positioning ("lens" method), pillars, identity, bio, relaunch
+│   ├── ideas-and-trends.md          ← 10 idea sources, scoring, what creators are doing now, series formats
+│   ├── creator-edit-styles.md       ← 18 creator edit-style archetypes + beginner progression
+│   ├── hooks.md                     ← 4-layer hook anatomy + Hinglish hook bank + visual hook moves
+│   ├── scripting.md                 ← word budgets, beat tables, structures, explainer formula, long-form
+│   ├── filming-on-phone.md          ← Android settings, light, audio, framing, shot lists, batching
+│   ├── editing-playbook.md          ← 7-pass edit, pacing maps, cut lists, Instagram Edits + CapCut how-to, export
+│   ├── effects-library.md           ← 100+ effects in 9 families with IDs, how-to, difficulty, mood recipes
+│   ├── sound-design.md              ← voice chain, music ducking, SFX library, sound-led formats
+│   ├── typography-and-color.md      ← font styles, Devanagari fonts, caption specs, 10 grades with settings, covers
+│   ├── platforms-and-publishing.md  ← Reels vs Shorts vs long-form, captions, hashtags, timing, publish kit
+│   ├── news-finance-compliance.md   ← news radar, fact packs, SEBI/ICAI/Big Four guardrails
+│   ├── freshness-engine.md          ← repeat rules, sameness heatmap audit
+│   ├── workflow-and-growth.md       ← weekly system, repurposing, analytics benchmarks, growth, monetisation
+│   └── libraries.md                 ← 34 formats, 24 hooks, 14 structures, pacing, transitions, fonts, captions, grades, music, camera
+├── scripts/recipe_roll.py           ← picks a fresh, non-repeating creative recipe from your content log
+└── templates/production-pack.md     ← the output template for a full reel production
 ```
 
-## The skills (`.claude/skills/`, 11 in total)
+## How to use it
+Open this repo in Claude Code and just ask. The skill loads automatically:
+- "Make a reel on the rupee hitting a 6-month high" → full **Production Pack** (brief, recipe, hooks, script, shots, edit plan with effect IDs, look, captions, compliance, log row)
+- "What effects should I use for a serious geopolitics reel?" → EFFECTS mode
+- "How do creators do the text-behind-person effect in Edits?" → TRENDS + EFFECTS
+- "Am I getting repetitive?" → AUDIT · "Here are my insights screenshots" → REVIEW
 
-| Skill | What it does | Say something like |
-|---|---|---|
-| `creator-dna` | Builds your brand profile: niche, pillars, voice, audience, visual identity, signature elements, and what's "never us" | "set up my creator profile" |
-| `idea-engine` | Generates ideas across 25+ formats, scores them, rotates pillars and formats | "give me 10 reel ideas for this week" |
-| `hook-lab` | Writes 3-second openers across 20 hook archetypes (verbal, visual, text, audio) | "hooks for my Goa vlog" |
-| `script-writer` | Scripts for 15s/30s/60s/90s reels, shorts and 8–15 min vlogs, using varied story structures | "script this idea as a 45s reel" |
-| `shot-planner` | Shot list, angles, b-roll, transitions-in-camera, location and light plan | "shot list for tomorrow's shoot" |
-| `edit-recipe` | A unique edit plan for each video: pacing map, cuts, transitions, sound design, music mood, captions, effects | "edit recipe for this script" |
-| `type-and-color` | Font pairings, caption styles, colour grades and text animation, rotated each post within your brand | "fonts and colours for this reel" |
-| `repurpose` | Turns one vlog into shorts, reels, carousels, a community post and captions for each platform | "repurpose my vlog" |
-| `freshness-audit` | Checks a plan or your last N posts for sameness and prescribes changes | "am I getting repetitive?" |
-| `news-explainer` | Finds trending stories, fact-checks them, finds the money angle and scripts a fast news reel with finance and politics compliance checks | "what's trending this week?" |
-| `performance-review` | Reads your numbers (retention, saves, shares, CTR) and turns them into next experiments | "review last week's analytics" |
+Roll a fresh recipe yourself:
+```
+python3 .claude/skills/creator-studio/scripts/recipe_roll.py --log creator/content-log.md --count 3
+```
 
-## Where to start (week 1)
+To use it in the Claude app: upload `dist/creator-studio.zip` under Settings → Capabilities → Skills.
 
-1. **Day 1:** run `creator-dna`. Answer its questions honestly. This is the base everything else uses.
-2. **Day 2:** run `idea-engine` and choose 5 ideas, each in a **different format**.
-3. **Day 3:** run `hook-lab` → `script-writer` for the first 2 ideas.
-4. **Day 4:** run `shot-planner`, then shoot both in one session.
-5. **Day 5:** run `edit-recipe` + `type-and-color`, then edit.
-6. **Day 6:** post, then log each post in `creator/content-log.md` (the skills can do this for you).
-7. **Day 7:** run `freshness-audit` + `performance-review`.
-
-Repeat each week. After 4 weeks, `performance-review` will have enough data to tell
-you which experiments to keep.
-
-## Files
-
-- `creator/brand-profile.md`: your creator DNA (filled in by `creator-dna`)
-- `creator/content-log.md`: every post and the choices behind it (the system's memory)
-- `creator/weekly-system.md`: the 5–7 hour weekly workflow and **Week 1 scripts, ready to shoot**
-- `creator/edits-app-playbook.md`: how to do everything in the Instagram Edits app on Android
-- `creator/libraries.md`: the shared libraries of formats, hooks, structures, transitions, fonts and grades
-
-## Using these skills
-
-Open this repo in Claude Code (CLI, desktop or claude.ai/code) and the skills in
-`.claude/skills/` load automatically. To use them in the Claude app instead, zip a skill
-folder and upload it under Settings → Capabilities → Skills.
+## Your files (the skill's memory)
+- `creator/brand-profile.md`: your positioning, pillars, voice, identity and CA/Big Four guardrails
+- `creator/content-log.md`: every post and its creative IDs (fill it in after each post)
+- `creator/weekly-system.md`: your 5–7 hour weekly plan and Week 1 scripts
+- `creator/edits-app-playbook.md`: quick Instagram Edits guide

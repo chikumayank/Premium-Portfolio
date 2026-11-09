@@ -3,12 +3,12 @@
 ## The week
 | When | Time | Task | Skill |
 |---|---|---|---|
-| Sunday | 60 min | Plan: pick 3 ideas (3 different pillars and formats), write hooks and scripts | `idea-engine` → `hook-lab` → `script-writer` |
-| Monday | 60–75 min | **Batch shoot** 2 evergreen reels (P2/P3/P4) in one session | `shot-planner` |
-| Monday/Tue | 60 min | Edit reel A, post **Tuesday** | `edit-recipe` + `type-and-color` |
-| Wednesday | 90 min | **News reel**: radar → facts → script → record → edit, post **Thursday** | `news-explainer` |
-| Friday | 45 min | Edit reel B, post **Saturday** | `edit-recipe` + `type-and-color` |
-| Saturday | 30 min | Log all 3, review numbers, plan stories | `freshness-audit` + `performance-review` |
+| Sunday | 60 min | Plan: pick 3 ideas (3 different pillars and formats), write hooks and scripts | creator-studio: IDEATE → HOOK → SCRIPT |
+| Monday | 60–75 min | **Batch shoot** 2 evergreen reels (P2/P3/P4) in one session | creator-studio: SHOOT |
+| Monday/Tue | 60 min | Edit reel A, post **Tuesday** | creator-studio: EDIT + LOOK |
+| Wednesday | 90 min | **News reel**: radar → facts → script → record → edit, post **Thursday** | creator-studio: NEWS |
+| Friday | 45 min | Edit reel B, post **Saturday** | creator-studio: EDIT + LOOK |
+| Saturday | 30 min | Log all 3, review numbers, plan stories | creator-studio: AUDIT + REVIEW |
 | Daily | 5 min | Reply to comments (the best source of new ideas), re-upload yesterday's reel to YT Shorts | — |
 
 Total: about 6 hours. In weeks when the news is slow, post a backup evergreen reel instead.
@@ -56,7 +56,7 @@ Caption: *"PY + AY ka confusion khatam 👀 New Income-tax Act 2025 explained in
 Caption: *"NRE vs NRO, the 45-second version 🇮🇳🌍. Send this to the NRI in your family. Source: RBI FEMA FAQs. Not financial advice."*
 
 ## Reel C (Thu): this week's news reel
-Run `news-explainer` on Wednesday. Use these settings so it looks different from A and B:
+Run creator-studio: NEWS on Wednesday. Use these settings so it looks different from A and B:
 - **Pillar:** P1 · **Format:** F29 green-screen headline breakdown · **Hook:** H21 headline-to-wallet question · **Structure:** S01 PAS
 - **Language:** Hindi · **Font:** EF4 typewriter (EF1 if it's a "breaking" story) · **Captions:** C03 karaoke · **Grade:** G04 moody · **Music:** M03 cinematic build · **Pace:** P06 slow build → fast ₹ ANGLE
 
@@ -67,7 +67,7 @@ Run `news-explainer` on Wednesday. Use these settings so it looks different from
 ---
 
 ## Reel C, filled in for the week of 9 Nov 2026: "Rupee 6 mahine ke high pe. Aapko faayda ya nuksaan?"
-Picked by `news-explainer` on 9 Nov 2026. Money angle: very strong. Relevant to both NRIs and Indian viewers. Safe and non-political.
+Picked by creator-studio: NEWS on 9 Nov 2026. Money angle: very strong. Relevant to both NRIs and Indian viewers. Safe and non-political.
 
 **Fact pack** (check again on the morning you record, because these numbers move every day)
 - ✅ The rupee touched about **93.9 per US dollar** on 6 Nov, its strongest level in about 6 months, and opened around **93.7** on 9 Nov. Reports differ by a few paise, so **say "around 94"** on camera. (Business Standard, 6 Nov; HDFC Sky / Deccan Chronicle, 9 Nov)

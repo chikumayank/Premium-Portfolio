@@ -1,6 +1,6 @@
 # Creator Brand Profile
 
-> Filled in by the `creator-dna` skill. Edit it whenever your direction changes.
+> Filled in by the `creator-studio` skill (ONBOARD mode). Edit it whenever your direction changes.
 > Status: **v1 draft (Nov 2026)**. Items marked ❓ still need your answer.
 
 ## Identity
@@ -53,7 +53,7 @@ Example titles:
 - Signature element: the **closing line** "Headline samjho, paisa bachao." followed by a 0.5s freeze frame. Repetition here is on purpose.
 
 ## Variable zone (changes every post)
-- Formats: F01, F04, F06, F07, F08, F14, F16, F17, F22, F23, F24, F29–F34 (see `creator/libraries.md`)
+- Formats: F01, F04, F06, F07, F08, F14, F16, F17, F22, F23, F24, F29–F34 (see `.claude/skills/creator-studio/references/libraries.md`)
 - Built-in Edits fonts: rotate between bold condensed, editorial serif, clean sans, typewriter and handwritten styles (see `creator/edits-app-playbook.md`)
 - Grades: G02 clean bright, G01 warm film, G04 moody desaturated (for serious geopolitics), G06 B&W (for history or flashbacks), G10 faded matte
 - Music: M01 lo-fi, M03 cinematic build, M07 no music, M09 ambient/piano, M12 Indian instrumental, M02 trending audio (only at low volume)
