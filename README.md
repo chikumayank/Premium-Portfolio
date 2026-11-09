@@ -19,7 +19,7 @@ performance-review  <-  freshness-audit  <-  repurpose  <-  type-and-color  <-  
         +-------------------- creator/content-log.md --------------------+
 ```
 
-## The skills (`.claude/skills/`)
+## The skills (`.claude/skills/`, 11 in total)
 
 | Skill | What it does | Say something like |
 |---|---|---|
@@ -32,6 +32,7 @@ performance-review  <-  freshness-audit  <-  repurpose  <-  type-and-color  <-  
 | `type-and-color` | Font pairings, caption styles, colour grades and text animation, rotated each post within your brand | "fonts and colours for this reel" |
 | `repurpose` | Turns one vlog into shorts, reels, carousels, a community post and captions for each platform | "repurpose my vlog" |
 | `freshness-audit` | Checks a plan or your last N posts for sameness and prescribes changes | "am I getting repetitive?" |
+| `news-explainer` | Finds trending stories, fact-checks them, finds the money angle and scripts a fast news reel with finance and politics compliance checks | "what's trending this week?" |
 | `performance-review` | Reads your numbers (retention, saves, shares, CTR) and turns them into next experiments | "review last week's analytics" |
 
 ## Where to start (week 1)
@@ -51,6 +52,8 @@ you which experiments to keep.
 
 - `creator/brand-profile.md`: your creator DNA (filled in by `creator-dna`)
 - `creator/content-log.md`: every post and the choices behind it (the system's memory)
+- `creator/weekly-system.md`: the 5–7 hour weekly workflow and **Week 1 scripts, ready to shoot**
+- `creator/edits-app-playbook.md`: how to do everything in the Instagram Edits app on Android
 - `creator/libraries.md`: the shared libraries of formats, hooks, structures, transitions, fonts and grades
 
 ## Using these skills

@@ -36,6 +36,12 @@ Add your own items at the end of any list. A bigger library gives more variety.
 | F26 | Fake ad / parody commercial | Humour |
 | F27 | Live-reaction "first time trying" | Authenticity |
 | F28 | Map / route animation travel story | Travel |
+| F29 | Green-screen headline breakdown (article/chart behind you) | News, geopolitics |
+| F30 | "Headline → Wallet" 3-step (what, why, ₹ angle) | P1 news |
+| F31 | Calculator / numbers on paper, top-down | Tax, finance math |
+| F32 | Viewer question answered (comment screenshot + reply) | NRI Desk, tax |
+| F33 | Map explainer (screenshot of map + arrows + VO) | Geopolitics |
+| F34 | "Explain like I'm 10" analogy with props | Complex policy |
 
 ## 2. Hook archetypes (H)
 | ID | Archetype | Template |
@@ -60,6 +66,10 @@ Add your own items at the end of any list. A bigger library gives more variety.
 | H18 | Wrong-then-right | Deliberately do it wrong first. |
 | H19 | Reaction-face open | Your genuine reaction, then reveal the cause. |
 | H20 | Time-stamp diary | "Day 1 of ___." |
+| H21 | Headline-to-wallet | "<Headline>. Aapki jeb pe kya asar?" |
+| H22 | Number shock | Show one surprising number big on screen: "₹1.8 lakh crore." |
+| H23 | Everyone's-wrong news | "Sab keh rahe hain ___. Asli kahani alag hai." |
+| H24 | Map open | A zoomed-in map spot, then: "Ye chhoti si jagah duniya ka petrol control karti hai." |
 
 ## 3. Story structures (S)
 | ID | Structure | Shape |

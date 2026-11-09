@@ -9,6 +9,7 @@ description: Picks fonts, caption style, text animation, colour palette and colo
 style, grade and text animation rotate.
 
 ## Inputs
+If the user edits in Instagram Edits, choose font styles by EF code from `creator/edits-app-playbook.md` and use Canva for exact fonts on covers.
 `creator/brand-profile.md` (anchor font, core colours, variable zone, never-us), the last 4 posts in
 `creator/content-log.md`, and `creator/libraries.md` § Font pairings, § Caption styles, § Colour grades.
 

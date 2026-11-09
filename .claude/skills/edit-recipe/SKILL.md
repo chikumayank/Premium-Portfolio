@@ -9,6 +9,7 @@ The aim is an edit with its own personality. A recipe combines **pace, transitio
 design, caption style, grade and one signature move**. No combination should repeat within 4 posts.
 
 ## Inputs
+If the user edits in Instagram Edits, give instructions from `creator/edits-app-playbook.md` and stay within its features.
 Script or footage description, the editing app (from `creator/brand-profile.md`), the last 4 rows of
 `creator/content-log.md`, and `creator/libraries.md` § Pacing, § Transitions, § Music, § Retention devices.
 
