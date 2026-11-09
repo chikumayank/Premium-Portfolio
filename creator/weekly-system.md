@@ -63,3 +63,32 @@ Run `news-explainer` on Wednesday. Use these settings so it looks different from
 ## Backup evergreen (keep filmed): "3-day trip, CA-style breakdown"
 - **Pillar:** P4 · **Format:** F24 photo-dump, beat-synced · **Hook:** H15 comparison tease ("Budget tha ₹15k. Kharcha hua…?") · **Font:** EF5 handwritten · **Grade:** G01 warm film
 - Use photos from your last trip, a ₹ number on each photo, a total at the end, and one lesson ("Sabse bada kharcha: last-minute cab").
+
+---
+
+## Reel C, filled in for the week of 9 Nov 2026: "Rupee 6 mahine ke high pe. Aapko faayda ya nuksaan?"
+Picked by `news-explainer` on 9 Nov 2026. Money angle: very strong. Relevant to both NRIs and Indian viewers. Safe and non-political.
+
+**Fact pack** (check again on the morning you record, because these numbers move every day)
+- ✅ The rupee touched about **93.9 per US dollar** on 6 Nov, its strongest level in about 6 months, and opened around **93.7** on 9 Nov. Reports differ by a few paise, so **say "around 94"** on camera. (Business Standard, 6 Nov; HDFC Sky / Deccan Chronicle, 9 Nov)
+- ✅ Reasons reported: **lower crude oil prices** (Brent around $98 on 9 Nov) and **foreign investor inflows**, with hopes of easing Middle East tension cutting oil's "risk premium".
+- ✅ India's forex reserves fell for the 8th straight week to **about $717 billion** (week ended 30 Oct), which suggests the RBI has been using dollars to manage the currency.
+- ⚠️ Don't predict where the rupee goes next. Say "analysts say it depends on crude, the dollar and the RBI".
+
+**Settings:** P1 · F29 green screen (rupee chart behind you) · H22 number shock · S01 PAS · **Hindi** · EF1 bold condensed · C03 karaoke · G04 moody · M03 cinematic build · P06 slow → fast
+
+| Time | Spoken (Hindi) | On-screen | Visual |
+|---|---|---|---|
+| 0–2s | "Dollar ke saamne rupaya 6 mahine ki sabse mazboot jagah pe hai." | **₹94 = $1** (big) | Green screen: rupee chart rising |
+| 2–10s | "Ho kya raha hai? Kachcha tel sasta hua, aur videshi paisa India mein aa raha hai." | "Crude ↓ · Foreign money ↑" | Punch-in |
+| 10–20s | "India apna zyaadatar tel import karta hai. Tel sasta, toh dollar kam chahiye, toh rupaya mazboot." | "Oil cheap → fewer $ needed → ₹ strong" | 3 arrows animate |
+| 20–40s | **₹ ANGLE:** "Ab aapka paisa. Bachcha videsh mein padh raha hai? Fees thodi sasti padegi. Foreign trip, iPhone, imported cheezein, thoda relief. Lekin NRI bhaiyon, ghar paisa bhejoge toh har dollar pe thode kam rupaye milenge." | 3 rows: 🎓 ✅ · ✈️ ✅ · 💸 NRI ❌ | ₹ ANGLE tag pops; icons per row |
+| 40–50s | "Petrol turant sasta hoga? Zaroori nahi. Woh tel companies aur sarkar tay karti hain." | "Petrol? Wait & watch" | Shrug, cut |
+| 50–58s | "Aap kis side ho, faayda ya nuksaan? Comment karo. Headline samjho, paisa bachao." | "Faayda 👍 / Nuksaan 👎?" | Freeze frame + end card |
+
+**Caption:** "Rupee 6 mahine ke high pe 📈 Kisko faayda, kisko nuksaan? 60 sec mein samjho. Sources: Business Standard (6 Nov 2026), forex reserve data (week ended 30 Oct 2026). Educational only, not financial advice. Views are personal."
+
+**Other topics this week (backups):**
+- **GST changes from 1 Nov 2026** (refunds, returns, ITC), aimed at small business owners. Strong save potential. Check against CBIC circulars first.
+- **NRIs can now own up to 10% of one Indian listed company** (up from 5%, Budget 2026). Good for NRI Desk. Check against the RBI/FEMA notification first.
+- **Income Tax Rules, 2026** follow-up to Reel A: "naye rules mein kya badla".

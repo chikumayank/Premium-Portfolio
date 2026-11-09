@@ -4,10 +4,10 @@
 > Status: **v1 draft (Nov 2026)**. Items marked ❓ still need your answer.
 
 ## Identity
-- Creator name / handle: ❓
+- Creator name / handle: ❓ (existing Instagram account, ~30 followers, inactive for 4 months → treat as a fresh relaunch)
 - Platforms (priority order): 1) Instagram Reels 2) YouTube Shorts (same video, re-uploaded) 3) YouTube long-form, later (month 3+)
 - Language(s) & mix: **Hinglish** by default · **English** for the NRI Desk · **Hindi** for mass-reach explainers. Log the language of every post.
-- Are you a practising CA / CA student / finance professional? ❓ (this decides the compliance rules in `news-explainer`)
+- Professional status: **Chartered Accountant (ICAI member)**, employed at a Big Four firm, also does freelance work → see *Professional guardrails* below
 
 ### Positioning (recommended)
 > **"Har headline ka paisa wala angle."** I explain what the news, the world and life
@@ -64,6 +64,23 @@ Example titles:
 - Stock or crypto buy/sell tips, guaranteed returns, "get rich" claims
 - Ragebait thumbnails, fake "BREAKING" sirens
 - The same font and caption style in two posts back-to-back
+
+## Professional guardrails (CA + Big Four employee)
+> Not legal advice. Read your employer's social media / outside-activities policy and the latest ICAI guidance yourself, once, before relaunching.
+- **Personal account only.** No firm name, logo, office photos, ID cards, or "Big 4 CA" in the bio or videos unless the firm's policy allows it. Add "Views are personal" to the bio.
+- **Confidentiality:** never mention clients, deals, audits, engagements or anything learnt at work, even anonymised "a client of mine…" stories.
+- **Independence:** no comments, positive or negative, on specific listed companies or their stocks. Your firm may audit them. Stay at the level of economy, policy, tax law and personal finance concepts.
+- **No soliciting:** no "DM me to file your ITR", no fees or service menus, no "best CA" claims. Educational content is the safe zone.
+- **Freelancing:** check whether your employment contract and your ICAI certificate-of-practice status allow paid outside work. Keep freelancing completely separate from this account.
+- **Disclaimers:** finance reels get "Educational only, not financial or tax advice. Views are personal." in the caption.
+
+## Relaunch plan (existing account)
+1. Archive (don't delete) old posts that don't fit the new direction.
+2. Bio (≤150 chars): "CA explaining what every headline means for your money 🇮🇳🌍 | Tax · NRI · News | Hinglish | Views personal".
+3. Profile photo: face, plain background, navy or off-white top.
+4. Post 3 reels in the first week so new visitors see a clear theme, then keep to 3 a week.
+5. 3 story highlights: "Tax", "NRI", "₹ Angle".
+6. Ignore follower count for the first 30 days. Track 3-second hold, average % watched, saves and shares.
 
 ## Gear & constraints
 - Camera / phone: Android phone (rear camera for quality, front camera for talking head only if lighting is good)

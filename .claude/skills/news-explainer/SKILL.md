@@ -47,6 +47,8 @@ Then hand off to `edit-recipe` and `type-and-color`, using a format from F29–F
 - [ ] **If the creator is an ICAI member:** ICAI rules restrict CAs from soliciting clients or advertising their services.
       Educational content is generally fine, but no "DM me to file your ITR" and no claims of being better than other CAs.
       Check the latest ICAI guidelines on social media.
+- [ ] **Employed at a firm (Big Four etc.):** no comments on specific listed companies (possible audit clients), nothing from work,
+      personal account only, "Views are personal". See *Professional guardrails* in `creator/brand-profile.md`.
 - [ ] **Politics/geopolitics:** neutral wording, both sides' stated positions, no party endorsement, no unverified claims about
       named people (defamation risk). Use "according to <source>" phrasing.
 - [ ] **Reach note:** Instagram doesn't recommend political content to non-followers by default. Framing a political
