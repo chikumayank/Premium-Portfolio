@@ -107,6 +107,7 @@ Pacing map: `0–3 HOOK fast | 3–18 calm, explain (2–3s shots) | 18–22 SIL
 - **Grade G10 faded matte:** fade +15, contrast −10, saturation −10, warmth +3. Check that skin isn't grey.
 - **Accent colour this post:** **teal #2A9D8F** (green-ish for "rupee up"); red only for the ✖ and ❌.
 - **Cover (Canva, FP04 Archivo Black):** "RUPAYA MAZBOOT. FAAYDA?". Your face (eyebrows raised) on the right; a small line-chart arrow up; navy background; text in the centre 4:5 area.
+  **Made:** https://canva.link/0bcf7flxhlitysn. Add your face cut-out (Canva "BG Remover") in the lower-middle, between the chart and the bottom 20%.
 
 ## 8. Publish kit
 **IG caption**
